@@ -11,7 +11,7 @@
 
 // Configure your runonce paths here
 $runonces = array(
-    '/path/to/your/runonce/runonce.php'
+    'path/to/your/script.php'
 );
 
 
